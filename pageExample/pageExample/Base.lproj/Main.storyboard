@@ -126,5 +126,38 @@
             </objects>
             <point key="canvasLocation" x="657" y="-231"/>
         </scene>
+        <!--Button View Controller-->
+        <scene sceneID="bUv-ZO-5Oa">
+            <objects>
+                <viewController id="I4l-Rk-zca" customClass="ButtonViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Wqn-ma-erS">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="QpW-6j-PMW">
+                                <rect key="frame" x="88" y="122" width="144" height="25"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <animations/>
+                                <state key="normal" title="First Button">
+                                    <color key="titleColor" red="0.69411764710000001" green="0.058823529409999999" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="tlT-ZS-jsL">
+                                <rect key="frame" x="88" y="183" width="144" height="25"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <animations/>
+                                <state key="normal" title="Second Button">
+                                    <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <animations/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="NEB-fL-sae" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="995" y="-231"/>
+        </scene>
     </scenes>
 </document>
