@@ -16,8 +16,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
     // Do any additional setup after loading the view.
     NSLog(@"hi");
+=======
+    // Do any additional setup after loading the view.'
+    NSLog(@"hmmmmmmmmmmmmmm");
+>>>>>>> 4003765e19414e540fe4cd30fe89a5dfac29bde0
 }
 
 - (void)didReceiveMemoryWarning {
