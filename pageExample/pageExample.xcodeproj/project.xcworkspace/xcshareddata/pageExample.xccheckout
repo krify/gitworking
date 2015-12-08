@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1FA0DF50-1794-45C4-A846-54F2E4215118</string>
+	<key>IDESourceControlProjectName</key>
+	<string>pageExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D10B172ACE9E143E71F83F1170D1FD11D1B06CB7</key>
+		<string>https://github.com/krify/gitworking.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>pageExample/pageExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D10B172ACE9E143E71F83F1170D1FD11D1B06CB7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/krify/gitworking.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D10B172ACE9E143E71F83F1170D1FD11D1B06CB7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D10B172ACE9E143E71F83F1170D1FD11D1B06CB7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gitworking</string>
+		</dict>
+	</array>
+</dict>
+</plist>
